@@ -1,0 +1,37 @@
+.cockpit .text {
+    width: 100%;
+    margin: 10px 0;
+    color: green;
+    font-size: 32px;
+    display: block;
+}
+
+.cockpit .red_text {
+    color: red;
+}
+
+.cockpit .bold_text {
+    font-weight: bold;
+}
+
+.cockpit button {
+    padding: 10px 30px;
+    border: 1px solid black;
+    font-size: 20px;
+    color: white;
+}
+.cockpit .green_button {
+    background: green;
+}
+
+.cockpit .green_button:hover {
+    background: lightgreen;
+}
+
+.cockpit .red_button {
+    background: red;
+}
+
+.cockpit .red_button:hover {
+    background: salmon;
+}
